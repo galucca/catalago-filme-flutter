@@ -37,7 +37,7 @@ flutter run
 ### 🌐 Versão Web
 Você pode testar o aplicativo diretamente no navegador clicando no link abaixo:
 
-[🔗 Versão Web do App no FlutLab](https://preview.flutlab.io/gabriel_lucca/catalagofilmes/)
+[🔗 Versão Web do App no FlutLab](https://catalago-filme-flutter.vercel.app)
 
 ### 🎥 Vídeo de Demonstração
 Assista ao vídeo demonstrando o funcionamento do aplicativo:
